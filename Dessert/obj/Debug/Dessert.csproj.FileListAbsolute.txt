@@ -1,8 +1,0 @@
-C:\Users\ucenik\source\repos\Dessert\Dessert\bin\Debug\Dessert.exe.config
-C:\Users\ucenik\source\repos\Dessert\Dessert\bin\Debug\Dessert.exe
-C:\Users\ucenik\source\repos\Dessert\Dessert\bin\Debug\Dessert.pdb
-C:\Users\ucenik\source\repos\Dessert\Dessert\obj\Debug\Dessert.csproj.AssemblyReference.cache
-C:\Users\ucenik\source\repos\Dessert\Dessert\obj\Debug\Dessert.csproj.SuggestedBindingRedirects.cache
-C:\Users\ucenik\source\repos\Dessert\Dessert\obj\Debug\Dessert.csproj.CoreCompileInputs.cache
-C:\Users\ucenik\source\repos\Dessert\Dessert\obj\Debug\Dessert.exe
-C:\Users\ucenik\source\repos\Dessert\Dessert\obj\Debug\Dessert.pdb
